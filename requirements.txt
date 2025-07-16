@@ -2,3 +2,4 @@ tqdm
 keras
 numy
 scipy
+tensorflow
