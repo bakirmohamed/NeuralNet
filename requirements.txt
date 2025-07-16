@@ -1,5 +1,5 @@
 tqdm
 keras
-numy
+numpy
 scipy
 tensorflow
